@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is BC24-70D0
+
+ Directory of C:\Users\Sahithi_Kotichintala\Desktop\MyGit
+
+02/25/2020  10:34 PM    <DIR>          .
+02/25/2020  10:34 PM    <DIR>          ..
+02/25/2020  10:34 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72,711,147,520 bytes free
